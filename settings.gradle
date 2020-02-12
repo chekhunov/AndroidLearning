@@ -1,0 +1,2 @@
+include ':app', ':p003firstproject', ':p0041basicviews', ':p0180constraintlayoutintro', ':p0051layoutfiles', ':P0061_Layouts', ':P0072_layoutprop', ':P0081_viewbyid'
+rootProject.name='AndroidLearning'
