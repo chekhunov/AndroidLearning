@@ -1,2 +1,2 @@
-include ':app', ':p003firstproject', ':p0041basicviews', ':p0180constraintlayoutintro', ':p0051layoutfiles', ':P0061_Layouts', ':P0072_layoutprop', ':P0081_viewbyid', ':P0091_onclickbuttons', ':P0101_Listener', ':P0102_ActivityListener'
+include ':app', ':p003firstproject', ':p0041basicviews', ':p0180constraintlayoutintro', ':p0051layoutfiles', ':P0061_Layouts', ':P0072_layoutprop', ':P0081_viewbyid', ':P0091_onclickbuttons', ':P0101_Listener', ':P0102_ActivityListener', ':P0111_ResValues', ':P0121_LogAndMess', ':P0131_MenuSimple', ':P0141_MenuAdv', ':P0151_ContextMenu', ':P0161_DynamicLayout'
 rootProject.name='AndroidLearning'
